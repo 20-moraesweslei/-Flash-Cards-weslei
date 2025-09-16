@@ -2,7 +2,7 @@
     --text-color: #DBE4EF;
     --card-front-color: #0663d6;
     --card-back-color: #00F4BF;
-}
+}4
 
 body {
     background:('img/bg-desktop.webp');
@@ -54,7 +54,7 @@ body {
 }
 
 footer {
-    background-color: black;
+    background-color: rgb(228, 3, 3);
     color: white;
     position: fixed;
     bottom: 0;
